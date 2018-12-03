@@ -1,0 +1,6 @@
+framework module Pods_SAPushNotification {
+  umbrella header "Pods-SAPushNotification-umbrella.h"
+
+  export *
+  module * { export * }
+}
